@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mournful caral: or, An elegy, lamenting the tragica[l] ends of two unfortunate faithful lovers, Frankin and Cordelius, he being slain, she slew her self with her dagger. To a new tune, called, Franklin is fled away.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680-1682?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04423</idno>
+            <idno type="STC">Wing M2984</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[348]</idno>
+            <idno type="EEBO-CITATION">99887827</idno>
+            <idno type="PROQUEST">ocm99887827</idno>
+            <idno type="VID">183483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183483)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[274])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mournful caral: or, An elegy, lamenting the tragica[l] ends of two unfortunate faithful lovers, Frankin and Cordelius, he being slain, she slew her self with her dagger. To a new tune, called, Franklin is fled away.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for M. Coles, T. Vere, J. Wright, I. Clarke, W. Thackeray, and T. Passenger.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1680-1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "F[ran]kin my loyal friend, o hone, o hone ..."</note>
+                  <note>Imperfect: trimmed and mutilated, affecting title and text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183483:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A mournful Caral: Or, An Elegy, Lamenting the Tragic, en<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unfortunate Faithful Lovers, <hi>Frankin</hi> and <hi>Cordelius,</hi> he being ſlain, ſhe flew herſelf with her Dagger.</head>
+            <opener>
+               <hi>To a new Tune, called, <hi>Franklin is fled away.</hi>
+               </hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>F<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in</hi> my loyal friend, <hi>O hone, o hone,</hi>
+               </l>
+               <l>In whom my joy do end, <hi>O hone, o hone,</hi>
+               </l>
+               <l>
+                  <hi>Frankin</hi> my hearts delight,</l>
+               <l>Since laſt he took his flight,</l>
+               <l>bids now the world good night, <hi>O hone, o hone,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Frankin,</hi> is fled and gone, <hi>O hone, o hone,</hi>
+               </l>
+               <l>And left me here alone, <hi>O hone, o hone,</hi>
+               </l>
+               <l>
+                  <hi>Frankin</hi> is fled away,</l>
+               <l>The glory of the <hi>May,</hi>
+               </l>
+               <l>Who can but mourn and ſay, <hi>O hone, o hone</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Frankin</hi> belov'd of all, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Ladies lament his fall, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Come mourn upon his ſhrine,</l>
+               <l>You Lady Muſes nine,</l>
+               <l>And Matrons all divine, <hi>O hone, o hone,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Frankin</hi> with comely grace, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Courted with kind imbrace, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Till <hi>Mars</hi> did hear controule,</l>
+               <l>And his affection ſtole,</l>
+               <l>to heaven bequeath'd his ſoul <hi>O hone, o hone</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Frankin</hi> did pleaſe the Dames, <hi>O hone, o hone,</hi>
+               </l>
+               <l>None could reſiſt his Flames, <hi>O hone, o hone</hi>
+               </l>
+               <l>Virgins lament the day,</l>
+               <l>That <hi>Frankin</hi> fled away,</l>
+               <l>How can we chuſe but ſay, <hi>O hone, o hone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Frankin</hi> why would'ſt thou goe, <hi>O hone, o hone,</hi>
+               </l>
+               <l>To Battle with thy Foe, <hi>O hone, oh hone,</hi>
+               </l>
+               <l>Thy ſolemn obſequies,</l>
+               <l>With watry dropping eyes,</l>
+               <l>A mournful ſacrifice, <hi>O hone a hone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>frankin</hi> which grac'd the ſwains, <hi>O hone o hone</hi>
+               </l>
+               <l>Sported upon the Plains, <hi>O hone, o hone,</hi>
+               </l>
+               <l>With all the Royal train,</l>
+               <l>Faithful he did remain,</l>
+               <l>Vntil my Lord was ſlain, <hi>O hone, o hone,</hi>
+               </l>
+            </lg>
+            <p>
+               <pb facs="tcp:183483:1"/>
+               <!-- PDF PAGE 13 -->
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>FRankin</hi> why would'ſt thou dye, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Regarding not my cry, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Love-ſick in every vein,</l>
+               <l>Oppreſt with grief and pain:</l>
+               <l>And ſo I ſhall remain, <hi>O hone, o hone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Frankin</hi> the pride of men, <hi>O hone, o hone,</hi>
+               </l>
+               <l>None flouriſh like him then,</l>
+               <l>till death without remorſe,</l>
+               <l>took <hi>Frankin</hi> hence by force,</l>
+               <l>I muſt bewail his Courſe, <hi>O hone, o hone,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In the Elizium Fields, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Much joy and pleaſure yields, <hi>O hone, o hone,</hi>
+               </l>
+               <l>there <hi>Frankin</hi> Sainted is,</l>
+               <l>injoying Lovers bliſs.</l>
+               <l>The Earthly mold I'le kiſs, <hi>O hone, o hone,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> under this ſtone, <hi>O hone, o hone,</hi>
+               </l>
+               <l>His <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orps remain alone, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Come drop with me a tear,</l>
+               <l>All you that faithfull are,</l>
+               <l>Such zealous thoughts I bear, <hi>O hone, o hone</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Frankin</hi> I come to thee, <hi>O hone, o hone,</hi>
+               </l>
+               <l>To end my miſery, <hi>O hone, o hone,</hi>
+               </l>
+               <l>The world I plainly find,</l>
+               <l>A hell unto my mind,</l>
+               <l>Thou art ſo true and kind, <hi>O hone, o hone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I count there is no bliſs, <hi>O hone, o hone,</hi>
+               </l>
+               <l>But where my true love is, <hi>O hone, o hone,</hi>
+               </l>
+               <l>To toul my mournfull bell,</l>
+               <l>There's heaven where <hi>Frank</hi> doth dwell</l>
+               <l>Now muſt I bid farewel, <hi>O hone, o hone,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This Dagger in my hand, <hi>O hone, o hone,</hi>
+               </l>
+               <l>My life ſhall ſoon command, <hi>O hone, o hone,</hi>
+               </l>
+               <l>And with this fatal Dart,</l>
+               <l>Ile ſtab my Love-ſick heart,</l>
+               <l>Ending a Lovers part, <hi>O hone, o hone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus did ſhe end her life, <hi>O hone, o hone,</hi>
+               </l>
+               <l>Which ſhould have been his wife, <hi>O hone, o hone</hi>
+               </l>
+               <l>Young-Men and Virgins all,</l>
+               <l>Lament theſe Lovers fall,</l>
+               <l>Gracing their Funeral, <hi>O hone, o hone.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for <hi>M. Coles, T. Vere, J. Wright, I. Clarke, W. Thackeray,</hi> and <hi>T. Paſſenger.</hi>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
